@@ -9,9 +9,7 @@
 <body>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<audio loop autoplay>
-    <source src="sounds/WT.mp3" type="audio/mp3">
-</audio>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/1596530747"></iframe>
 <body>
 <style>
 * {box-sizing: border-box;}
